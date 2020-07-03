@@ -1,4 +1,4 @@
-import ResponsiveDrawer from "./Layout";
+import Layout from "./Layout";
 export default function SpaceLaunch() {
-  return <ResponsiveDrawer />;
+  return <Layout />;
 }
